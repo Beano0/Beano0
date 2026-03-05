@@ -6,7 +6,7 @@
 
 Contact options:
 - Discord: beano_1
-- Email: beano.rover441@passmail.net
+- Email: beano08@proton.me
 
 I am an autistic programmer and cybersecurity student.
 Some of my goals include studying at University, and finding out where my passion truly lies.
