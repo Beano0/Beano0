@@ -4,6 +4,10 @@
 **Beano0/Beano0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your ShitHub profile.
 -->
 
+Contact options:
+- Discord: beano_1
+- Email: beano.rover441@passmail.net
+
 I am an autistic programmer and cybersecurity student.
 Some of my goals include studying at University, and finding out where my passion truly lies.
 My main choices of Linux are Arch and Debian, with projects like Proxmox also being used for personal learning and knowledge.
@@ -17,7 +21,3 @@ I am a college student in a BTEC Level 3 Nataional Extended Diploma for Informat
 My aim is to attend University and further my education.
 
 If you are curious about things, you are free to ask. If I do not respond, most likely either forgot to check here or been busy.
-
-Contact options:
-Discord: beano_1
-Email: beano.rover441@passmail.net
