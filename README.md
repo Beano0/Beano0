@@ -9,13 +9,15 @@ I am an autistic programmer and cybersecurity student.
 I am a college student in a BTEC Level 3 Nataional Extended Diploma for Information Technology.
 Some of my goals include studying at University, and finding out where my passion truly lies.
 My main choices of Linux are Arch and Debian, with projects like Proxmox also being used for personal learning and knowledge.
-Said Proxmox node has also helped with practicing hardening Linux as a whole. 
+Said Proxmox node has also helped with practicing hardening Linux as a whole.
+
+I have taken up to learning Golang and C++, in preperation of my own programs and other related things.
 
 If you are curious about things, you are free to ask. If I do not respond, most likely either forgot to check here or been busy.
 
 # My Skills
 - Networking (Structual Planning & Management)
-- Web Forensics
+- Web Exploitation
 - VPNs
 - Virtualisation
 
