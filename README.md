@@ -2,7 +2,7 @@
 
 # Contact options:
 - Discord: beano_1
-- Email: beano08@proton.me
+- Email: beano0 [at] beano-net.co.uk
 
 # About Me
 I am an autistic programmer and cybersecurity student.
